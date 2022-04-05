@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(33, 188, 197);
+    background: -moz-linear-gradient(180deg, rgba(33, 188, 197, 1) 0%, rgba(255, 255, 255, 1) 77%);
+    background: -webkit-linear-gradient(180deg, rgba(33, 188, 197, 1) 0%, rgba(255, 255, 255, 1) 77%);
+    background: linear-gradient(180deg, rgba(33, 188, 197, 1) 0%, rgba(255, 255, 255, 1) 77%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#21bcc5",endColorstr="#ffffff",GradientType=1);
+}
