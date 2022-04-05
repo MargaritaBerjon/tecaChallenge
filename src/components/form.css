@@ -1,0 +1,18 @@
+.user-form {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 10px 16px 14px #00000045;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: white;
+}
+
+input {
+    margin-bottom: 15px;
+}
+label {
+    margin-bottom: 5px;
+}
+.form-terms {
+    margin-top: 15px;
+}
