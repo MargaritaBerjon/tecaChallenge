@@ -50,11 +50,11 @@ function Form(props) {
     const form = (
         <form className='user-form' onSubmit={onSubmit} onChange={(ev) => formChanges(ev)}>
             <label>Nombre</label>
-            <input type='text' id='name' name='name' value={name} disabled />
+            <input type='text' id='name' name='name' value={name || ""} disabled />
             <label>Apellidos</label>
-            <input type='text' id='surname' name='surname' value={surname} disabled />
+            <input type='text' id='surname' name='surname' value={surname || ""} disabled />
             <label>Email</label>
-            <input type='email' id='email' name='email' value={email} disabled />
+            <input type='email' id='email' name='email' value={email || ""} disabled />
             <label>Teléfono</label>
             <input type='number' id='phone' name='phone' pattern='[0-9]{9}' required defaultValue={phone} />
             <label>Edad</label>
