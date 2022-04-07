@@ -1,0 +1,10 @@
+.success-container {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 10px 16px 14px #00000045;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: white;
+    height: 30vh;
+    width: 30vh;
+}
