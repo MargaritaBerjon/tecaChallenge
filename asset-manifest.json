@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tecaChallenge/static/css/main.7bde417f.css",
+    "main.js": "/tecaChallenge/static/js/main.512f54f1.js",
+    "static/js/787.943caad0.chunk.js": "/tecaChallenge/static/js/787.943caad0.chunk.js",
+    "index.html": "/tecaChallenge/index.html",
+    "main.7bde417f.css.map": "/tecaChallenge/static/css/main.7bde417f.css.map",
+    "main.512f54f1.js.map": "/tecaChallenge/static/js/main.512f54f1.js.map",
+    "787.943caad0.chunk.js.map": "/tecaChallenge/static/js/787.943caad0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bde417f.css",
+    "static/js/main.512f54f1.js"
+  ]
+}
