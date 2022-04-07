@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tecaChallenge/static/css/main.7bde417f.css",
-    "main.js": "/tecaChallenge/static/js/main.5cdcd7d9.js",
-    "static/js/787.8fda3ea4.chunk.js": "/tecaChallenge/static/js/787.8fda3ea4.chunk.js",
+    "main.js": "/tecaChallenge/static/js/main.235d81a9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tecaChallenge/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/tecaChallenge/index.html",
     "main.7bde417f.css.map": "/tecaChallenge/static/css/main.7bde417f.css.map",
-    "main.5cdcd7d9.js.map": "/tecaChallenge/static/js/main.5cdcd7d9.js.map",
-    "787.8fda3ea4.chunk.js.map": "/tecaChallenge/static/js/787.8fda3ea4.chunk.js.map"
+    "main.235d81a9.js.map": "/tecaChallenge/static/js/main.235d81a9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tecaChallenge/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bde417f.css",
-    "static/js/main.5cdcd7d9.js"
+    "static/js/main.235d81a9.js"
   ]
 }
