@@ -31,8 +31,8 @@ function App() {
   return (
 
     <div className="main">
-      <Routes>
-        <Route path="/" basename={process.env.PUBLIC_URL} element={
+      <Routes basename={process.env.PUBLIC_URL}>
+        <Route path="/" element={
           <Form usersData={users} onUserUpdated={(id, userInfo) => updateUser(id, userInfo)}></Form>
         } />
         <Route path="error" element={<Error />} />
