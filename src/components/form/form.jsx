@@ -8,13 +8,16 @@ function Form(props) {
     const [formData, setformData] = useState(null);
     const numberCase = ["age", "loan_amount", "loan_weeks"];
     let id = 0;
-    useEffect(() => {
-        //Carga de datos de la api en objeto formData
-        const formData = props.usersData;
-        id = formData.id;
-        delete formData.id;
-        setformData(formData);
-    }, [props.usersData]);
+    useEffect(
+        (id) => {
+            //Carga de datos de la api en objeto formData
+            const formData = props.usersData;
+            id = formData.id;
+            delete formData.id;
+            setformData(formData);
+        },
+        [props.usersData]
+    );
 
     const onTermsChange = (areTermsAccepted) => {
         settermsChecked(areTermsAccepted);
