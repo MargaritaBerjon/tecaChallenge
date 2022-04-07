@@ -1,6 +1,6 @@
 {
   "homepage": "https://margaritaberjon.github.io/tecaChallenge/",
-  "name": "tecaChallenge",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
